@@ -1,6 +1,6 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "neeraj166/laravel-ReactOrgKit",
+    "name": "neeraj166/laravel-react-org-kit",
     "type": "project",
     "description": "A Laravel starter kit with preconfigured auth, UI, and tools.",
     "keywords": [
